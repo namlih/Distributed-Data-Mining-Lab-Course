@@ -1,0 +1,1 @@
+hadoop jar /home/hadoop/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.9.0.jar -file /home/hadoop/wiki_word_count/mapreduce_python_example/mapper.py -mapper mapper.py -file /home/hadoop/wiki_word_count/mapreduce_python_example/reducer.py -reducer reducer.py -input /inputs/preprocessed_wiki.txt -output /outputs/hadoop_python_wordcount

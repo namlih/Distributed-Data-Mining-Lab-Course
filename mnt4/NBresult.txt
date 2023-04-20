@@ -1,0 +1,14 @@
+smoothing factor:0.001
+[('ROC_training', 0.7363239946635823), ('PR_training', 0.696266911749596), ('ROC_test', 0.7460562442954957), ('PR_test', 0.7906024567748067)]
+smoothing factor:0.01
+[('ROC_training', 0.7363239946635823), ('PR_training', 0.696266911749596), ('ROC_test', 0.7460562442954957), ('PR_test', 0.7906024567748067)]
+smoothing factor:0.1
+[('ROC_training', 0.7363180518336065), ('PR_training', 0.6962626770870526), ('ROC_test', 0.7460562442954957), ('PR_test', 0.7906024567748067)]
+smoothing factor:1.0
+[('ROC_training', 0.7363180518336065), ('PR_training', 0.6962626770870526), ('ROC_test', 0.7460562442954957), ('PR_test', 0.7906024567748067)]
+smoothing factor:10.0
+[('ROC_training', 0.7363134371608431), ('PR_training', 0.6962453318614643), ('ROC_test', 0.7462384465012031), ('PR_test', 0.7907491887604882)]
+smoothing factor:100.0
+[('ROC_training', 0.7364586875172037), ('PR_training', 0.6963839753628644), ('ROC_test', 0.7460857399062767), ('PR_test', 0.7905755210112458)]
+smoothing factor:1000.0
+[('ROC_training', 0.7376142189694224), ('PR_training', 0.6972419491250668), ('ROC_test', 0.7467223272246047), ('PR_test', 0.7910228199533065)]
